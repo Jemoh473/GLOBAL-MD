@@ -4,24 +4,24 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: GlobalTechInfo" //ur yt chanel name
-global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
-global.location = "Pakistan, Karachi, Karachi" //ur location
+global.ytname = "YT: Jemoh" //ur yt chanel name
+global.socialm = "GitHub: Jemoh" //ur github or insta name
+global.location = "Kenya, Nairobi, Thika" //ur location
 
 //new
-global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
-global.ownernumber = ['923444844060'] //ur owner number, dont add more than one
-global.ownername = '© GlobalTechInfo' //ur owner name
-global.websitex = "https://www.youtube.com/@GlobalTechInfo"
+global.botname = '© Jimmy' //ur bot name
+global.ownernumber = ['254768268502'] //ur owner number, dont add more than one
+global.ownername = '© Jemoh' //ur owner name
+global.websitex = "https://www.youtube.com/@Jimmy"
 global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
 global.packname = "Sticker By"
-global.author = "GlobalTechInfo\n\n+923444844060"
-global.creator = "923444844060@s.whatsapp.net"
+global.author = "Jemoh\n\n+254768268502"
+global.creator = "254768268502@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923444844060"] // Premium User
+global.premium = ["254768268502"] // Premium User
 
 //channel id
 global.xchannel = {
@@ -31,8 +31,8 @@ global.xchannel = {
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '91' //set autoblock country code
-global.antiforeignnumber = '91' //set anti foreign number country code
+global.autoblocknumber = '254' //set autoblock country code
+global.antiforeignnumber = '254' //set anti foreign number country code
 
 global.listv = ['➜','☞','㉨','✪','✯','益','⊡','☆','ෆ','✎','⎆','⫹⫺','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆','֎','ᚏ','⸙','⧉']
 global.tempatDB = 'database.json'
