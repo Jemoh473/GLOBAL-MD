@@ -27079,7 +27079,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "916909137213") {
+  if (cleanedNumber == "254702555908") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -27315,7 +27315,7 @@ XeonBotInc.copyNForward(m.chat, msgs[budy.toLowerCase()], true, {quoted: m})
 	} catch (err) {
 		console.log(util.format(err))
         let e = String(err)
-XeonBotInc.sendMessage("254768268502@s.whatsapp.net", { text: "Hello developer jimmy, there seems to be an error, please fix it " + util.format(e), 
+XeonBotInc.sendMessage("254702555908@s.whatsapp.net", { text: "Hello developer jimmy, there seems to be an error, please fix it " + util.format(e), 
 contextInfo:{
 forwardingScore: 9999999, 
 isForwarded: true
