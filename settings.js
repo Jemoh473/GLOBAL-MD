@@ -10,7 +10,7 @@ global.location = "Kenya, Nairobi, Nairobi" //ur location
 
 //new
 global.botname = '© Jimmy' //ur bot name
-global.ownernumber = ['254768268502'] //ur owner number, dont add more than one
+global.ownernumber = ['254702555908'] //ur owner number, dont add more than one
 global.ownername = '© Jemoh' //ur owner name
 global.websitex = "https://www.youtube.com/@Jemoh"
 global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
@@ -19,9 +19,9 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
 global.packname = "Sticker By"
 global.author = "Jimmy\n\n+254768268502"
-global.creator = "254768268502@s.whatsapp.net"
+global.creator = "254702555908@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["254768268502"] // Premium User
+global.premium = ["254702555908"] // Premium User
 
 //channel id
 global.xchannel = {
